@@ -24,6 +24,7 @@ public class TestDinamicArray {
 		{
 			System.out.println(array2[i]);
 		}
+		
 	}
 
 }
